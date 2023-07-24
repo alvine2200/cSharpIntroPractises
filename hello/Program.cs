@@ -8,8 +8,20 @@
 // type casting
 // implicit & explicit type casting
 
-Console.WriteLine("What is Your Age?");
-int age = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("What is Your Age?");
+// int age = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Here is Your Age" + age);
+// Console.WriteLine("Here is Your Age" + age);
 
+
+// Full name
+string name = "John Doe";
+
+// Location of the letter D
+int charPos = name.IndexOf("D");
+
+// Get last name
+string lastName = name.Substring(charPos);
+
+// Print the result
+Console.WriteLine(lastName);
