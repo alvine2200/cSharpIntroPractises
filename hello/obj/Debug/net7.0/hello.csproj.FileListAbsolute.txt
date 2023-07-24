@@ -1,0 +1,15 @@
+/home/llavu/Documents/c# Projects/c# practises/hello/bin/Debug/net7.0/hello
+/home/llavu/Documents/c# Projects/c# practises/hello/bin/Debug/net7.0/hello.deps.json
+/home/llavu/Documents/c# Projects/c# practises/hello/bin/Debug/net7.0/hello.runtimeconfig.json
+/home/llavu/Documents/c# Projects/c# practises/hello/bin/Debug/net7.0/hello.dll
+/home/llavu/Documents/c# Projects/c# practises/hello/bin/Debug/net7.0/hello.pdb
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.csproj.AssemblyReference.cache
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.AssemblyInfoInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.AssemblyInfo.cs
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.csproj.CoreCompileInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.dll
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/refint/hello.dll
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.pdb
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/hello.genruntimeconfig.cache
+/home/llavu/Documents/c# Projects/c# practises/hello/obj/Debug/net7.0/ref/hello.dll
