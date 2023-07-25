@@ -1,0 +1,15 @@
+/home/llavu/Documents/c# Projects/c# practises/constructors/bin/Debug/net7.0/constructors
+/home/llavu/Documents/c# Projects/c# practises/constructors/bin/Debug/net7.0/constructors.deps.json
+/home/llavu/Documents/c# Projects/c# practises/constructors/bin/Debug/net7.0/constructors.runtimeconfig.json
+/home/llavu/Documents/c# Projects/c# practises/constructors/bin/Debug/net7.0/constructors.dll
+/home/llavu/Documents/c# Projects/c# practises/constructors/bin/Debug/net7.0/constructors.pdb
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.csproj.AssemblyReference.cache
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.AssemblyInfoInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.AssemblyInfo.cs
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.csproj.CoreCompileInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.dll
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/refint/constructors.dll
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.pdb
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/constructors.genruntimeconfig.cache
+/home/llavu/Documents/c# Projects/c# practises/constructors/obj/Debug/net7.0/ref/constructors.dll
