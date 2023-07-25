@@ -1,0 +1,15 @@
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.csproj.AssemblyReference.cache
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.GeneratedMSBuildEditorConfig.editorconfig
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.AssemblyInfoInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.AssemblyInfo.cs
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.csproj.CoreCompileInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/enum_files/bin/Debug/net7.0/enum_files
+/home/llavu/Documents/c# Projects/c# practises/enum_files/bin/Debug/net7.0/enum_files.deps.json
+/home/llavu/Documents/c# Projects/c# practises/enum_files/bin/Debug/net7.0/enum_files.runtimeconfig.json
+/home/llavu/Documents/c# Projects/c# practises/enum_files/bin/Debug/net7.0/enum_files.dll
+/home/llavu/Documents/c# Projects/c# practises/enum_files/bin/Debug/net7.0/enum_files.pdb
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.dll
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/refint/enum_files.dll
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.pdb
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/enum_files.genruntimeconfig.cache
+/home/llavu/Documents/c# Projects/c# practises/enum_files/obj/Debug/net7.0/ref/enum_files.dll
