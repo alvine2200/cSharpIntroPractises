@@ -1,0 +1,15 @@
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.csproj.AssemblyReference.cache
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.GeneratedMSBuildEditorConfig.editorconfig
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.AssemblyInfoInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.AssemblyInfo.cs
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.csproj.CoreCompileInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/bin/Debug/net7.0/ExercisePractise
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/bin/Debug/net7.0/ExercisePractise.deps.json
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/bin/Debug/net7.0/ExercisePractise.runtimeconfig.json
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/bin/Debug/net7.0/ExercisePractise.dll
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/bin/Debug/net7.0/ExercisePractise.pdb
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.dll
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/refint/ExercisePractise.dll
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.pdb
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ExercisePractise.genruntimeconfig.cache
+/home/llavu/Documents/c# Projects/c# practises/ExercisePractise/obj/Debug/net7.0/ref/ExercisePractise.dll
