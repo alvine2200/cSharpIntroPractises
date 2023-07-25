@@ -1,0 +1,15 @@
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/bin/Debug/net7.0/polymorphism
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/bin/Debug/net7.0/polymorphism.deps.json
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/bin/Debug/net7.0/polymorphism.runtimeconfig.json
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/bin/Debug/net7.0/polymorphism.dll
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/bin/Debug/net7.0/polymorphism.pdb
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.csproj.AssemblyReference.cache
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.AssemblyInfoInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.AssemblyInfo.cs
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.dll
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/refint/polymorphism.dll
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.pdb
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/polymorphism.genruntimeconfig.cache
+/home/llavu/Documents/c# Projects/c# practises/polymorphism/obj/Debug/net7.0/ref/polymorphism.dll
