@@ -1,52 +1,52 @@
-using System.Reflection.Metadata.Ecma335;
-using System;
+// using System.Reflection.Metadata.Ecma335;
+// using System;
 
-public class SwapLetters
-{
+// public class SwapLetters
+// {
 
-    public static void Main(string[] args)
-    {
+//     public static void Main(string[] args)
+//     {
 
-        Console.WriteLine("Write The sentence: ");
-        string word = Console.ReadLine();
+//         Console.WriteLine("Write The sentence: ");
+//         string word = Console.ReadLine();
 
-        string newWord = addCharactersToFirstAndLastOfSentence(word);
+//         string newWord = addCharactersToFirstAndLastOfSentence(word);
 
-        Console.WriteLine("After Swapping The Word Is : " + newWord);
+//         Console.WriteLine("After Swapping The Word Is : " + newWord);
 
-    }
-    //get first character of a sentence, add it to the frot and back of a sentence
+//     }
+//     //get first character of a sentence, add it to the frot and back of a sentence
 
-    static string addCharactersToFirstAndLastOfSentence(string sentence)
-    {
-        char firstChar = sentence[0];
-        string remainingSentenceAfterRemovingIndex0 = sentence.Substring(1, sentence.Length - 2);
+//     static string addCharactersToFirstAndLastOfSentence(string sentence)
+//     {
+//         char firstChar = sentence[0];
+//         string remainingSentenceAfterRemovingIndex0 = sentence.Substring(1, sentence.Length - 2);
 
-        return firstChar + sentence + firstChar;
-    }
+//         return firstChar + sentence + firstChar;
+//     }
 
-    static string getFirstWordOfTheSentence(string sentence)
-    {
-        string firstWord = sentence.Split(' ')[0];
-        return firstWord;
-    }
+//     static string getFirstWordOfTheSentence(string sentence)
+//     {
+//         string firstWord = sentence.Split(' ')[0];
+//         return firstWord;
+//     }
 
-    //swapping first and last characters of a word
+//     //swapping first and last characters of a word
 
-    // static string swapFirstAndLast(string str)
-    // {
-    //     if (str.Length <= 1)
-    //     {
-    //         return str;
-    //     }
+//     // static string swapFirstAndLast(string str)
+//     // {
+//     //     if (str.Length <= 1)
+//     //     {
+//     //         return str;
+//     //     }
 
-    //     char firstString = str[0];
-    //     char lastString = str[str.Length - 1];
+//     //     char firstString = str[0];
+//     //     char lastString = str[str.Length - 1];
 
-    //     string middleString = str.Substring(1, str.Length - 2);
+//     //     string middleString = str.Substring(1, str.Length - 2);
 
-    //     return lastString + middleString + firstString;
+//     //     return lastString + middleString + firstString;
 
-    // }
+//     // }
 
-}
+// }
