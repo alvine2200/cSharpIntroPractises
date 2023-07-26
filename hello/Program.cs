@@ -14,14 +14,33 @@
 // Console.WriteLine("Here is Your Age" + age);
 
 
-// Full name
-string name = "John Doe";
+// // Full name
+// string name = "John Doe";
 
-// Location of the letter D
-int charPos = name.IndexOf("D");
+// // Location of the letter D
+// int charPos = name.IndexOf("D");
 
-// Get last name
-string lastName = name.Substring(charPos);
+// // Get last name
+// string lastName = name.Substring(charPos);
 
-// Print the result
-Console.WriteLine(lastName);
+// // Print the result
+// Console.WriteLine(lastName);
+
+
+//constructors
+
+class Car
+{
+    public string model;
+
+    public Car()
+    {
+        model = "Mustang";
+    }
+
+    public static void Main(string[] args)
+    {
+        Car Ford = new Car();
+        Console.WriteLine(Ford.model);
+    }
+}

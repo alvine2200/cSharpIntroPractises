@@ -17,23 +17,22 @@
 // }
 
 //multple accessers
+// class Car
+// {
+//     public string model;
+//     public string color;
+//     public int price;
 
-class Car
-{
-    public string model;
-    public string color;
-    public int price;
+//     public Car(string modelName, string modelColor, int carPrice)
+//     {
+//         model = modelName;
+//         color = modelColor;
+//         price = carPrice;
+//     }
 
-    public Car(string modelName, string modelColor, int carPrice)
-    {
-        model = modelName;
-        color = modelColor;
-        price = carPrice;
-    }
-
-    public static void Main(string[] args)
-    {
-        Car Ford = new Car("mustang", "blue", 2010);
-        Console.WriteLine("The" + " " + Ford.model + " " + "car" + " " + Ford.color + " " + "this" + " " + Ford.price + " ");
-    }
-}
+//     public static void Main(string[] args)
+//     {
+//         Car Ford = new Car("mustang", "blue", 2010);
+//         Console.WriteLine("The" + " " + Ford.model + " " + "car" + " " + Ford.color + " " + "this" + " " + Ford.price + " ");
+//     }
+// }
